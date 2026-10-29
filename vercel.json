@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/about/", "destination": "/about.html" },
+    { "source": "/how-it-works/", "destination": "/how-it-works.html" },
+    { "source": "/ride-sharing/", "destination": "/ride-sharing.html" },
+    { "source": "/drivers/", "destination": "/drivers.html" },
+    { "source": "/passengers/", "destination": "/passengers.html" },
+    { "source": "/faq/", "destination": "/faq.html" },
+    { "source": "/contact/", "destination": "/contact.html" },
+    { "source": "/privacy-policy/", "destination": "/privacy-policy.html" },
+    { "source": "/terms-and-conditions/", "destination": "/terms-and-conditions.html" },
+    { "source": "/sitemap/", "destination": "/sitemap.html" }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR_PRODUCTION_DOMAIN with the verified HTTPS domain before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/about/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/how-it-works/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/ride-sharing/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/drivers/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/passengers/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/faq/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/contact/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/privacy-policy/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/terms-and-conditions/</loc></url>
+  <url><loc>https://YOUR_PRODUCTION_DOMAIN/sitemap/</loc></url>
+</urlset>

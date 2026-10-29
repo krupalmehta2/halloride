@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f8fc"/>
+  <circle cx="1000" cy="104" r="220" fill="#fff0cc"/>
+  <circle cx="1070" cy="500" r="180" fill="#edf1f6"/>
+  <rect x="76" y="72" width="1048" height="486" rx="38" fill="#fff"/>
+  <path d="M136 171h84" stroke="#f5a900" stroke-width="14" stroke-linecap="round"/>
+  <text x="136" y="280" fill="#07172b" font-family="Arial,sans-serif" font-size="88" font-weight="700">hallo</text>
+  <circle cx="362" cy="254" r="9" fill="#f5a900"/>
+  <text x="138" y="370" fill="#07172b" font-family="Arial,sans-serif" font-size="39" font-weight="700">Your route. Your people.</text>
+  <text x="138" y="424" fill="#07172b" font-family="Arial,sans-serif" font-size="39" font-weight="700">Shared journeys.</text>
+  <text x="140" y="490" fill="#697586" font-family="Arial,sans-serif" font-size="23">Ride sharing and carpooling in Gujarat</text>
+  <rect x="838" y="442" width="210" height="58" rx="10" fill="#ffbf24"/>
+  <text x="868" y="480" fill="#07172b" font-family="Arial,sans-serif" font-size="19" font-weight="700">Available on Android</text>
+</svg>
